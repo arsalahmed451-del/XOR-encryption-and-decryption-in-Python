@@ -18,7 +18,7 @@ The same XOR operation is used for both encryption and decryption.
 XOR-encryption-and-decryption-in-Python/
 │
 ├── README.md
-├── xor_encryption_python.ipynb
+├── Xor_encryption_python.ipynb
 │
 ├── data/
 │   └── input_image.jpeg
